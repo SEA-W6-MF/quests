@@ -1,3 +1,5 @@
+package aufgabe7_Inheritage;
+
 import java.util.ArrayList;
 
 public class Hangar {

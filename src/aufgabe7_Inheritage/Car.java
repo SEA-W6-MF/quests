@@ -1,3 +1,5 @@
+package aufgabe7_Inheritage;
+
 public class Car extends Vehicle {
 
     // constructor

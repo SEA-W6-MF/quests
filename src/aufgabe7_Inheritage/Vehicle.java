@@ -1,3 +1,5 @@
+package aufgabe7_Inheritage;
+
 public abstract class Vehicle {
 
     // attributes
