@@ -1,4 +1,5 @@
-package aufgabe6;
+package aufgabe6_OOP;
 
 public class Duck {
+
 }
